@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td align="center" width="196">
-      <a href="#three">
+      <a href="https://html-css-js.com/">
         <img src="./img/go-flat.svg" width="48" height="48" alt="HTML, CSS, JS" />
       </a>
       <br>"The Holy Trinity"
